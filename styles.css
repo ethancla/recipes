@@ -61,6 +61,7 @@ h2 {
 
 /* Lists instructions */
 ol li {
+    list-style: decimal inside;
     background: #fff;
     margin: 20px auto;
     padding: 20px;
